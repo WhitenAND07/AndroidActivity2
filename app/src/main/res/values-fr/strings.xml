@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Activité Android 2</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="message">Bonjour Le Monde!</string>
+    <string name="button1">Aller à l\'écran au revoir</string>
+    <string name="button2">Retourner</string>
+    <string name="messagePrint">Message d\'adieu:</string>
+    <string name="messageR">Nombre de répétitions:</string>
+    <string name="flag">Drapeau</string>
+    <string name="messageBye">Au Revoir Monde!</string>
+    <string name="repeat">1</string>
+    <string name="Error">S\'il vous plait, complétez les champs pour continuer</string>
+</resources>

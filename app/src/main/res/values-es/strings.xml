@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Actividad Android 2</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="message">Hola Mundo!</string>
+    <string name="button1">Ir a la pantalla de Adiós</string>
+    <string name="button2">Regresa</string>
+    <string name="messagePrint">Mensaje de despedida:</string>
+    <string name="messageR">Numero de repeticiones:</string>
+    <string name="flag">Bandera</string>
+    <string name="messageBye">Adiós Mundo!</string>
+    <string name="repeat">1</string>
+    <string name="Error">Por favor, completa los campos para poder continuar</string>
+</resources>

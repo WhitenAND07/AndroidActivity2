@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Configuració</string>
+    <string name="message">Hola Món!</string>
+    <string name="button1">Aneu a la pantalla de Adeu</string>
+    <string name="button2">Torna</string>
+    <string name="messagePrint">Missatge de despedida:</string>
+    <string name="messageR">Nombre de repeticions:</string>
+    <string name="flag">Bandera</string>
+    <string name="app_name">Activitat Android 2</string>
+    <string name="messageBye">Adéu Mon!</string>
+    <string name="repeat">1</string>
+    <string name="Error">Siusplau, completa els camps per poder continuar</string>
+</resources>
